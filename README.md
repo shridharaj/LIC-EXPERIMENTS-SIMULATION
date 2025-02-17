@@ -16,7 +16,7 @@ Go to simulate, Select the dc output print and the run the simulation.
 
 This figure shows the output of dc analysis
  
-  ![image](https://github.com/user-attachments/assets/11e5cc97-94ec-408a-bf4c-c5c8ad44dd46)
+
 
 
 #### 2. AC Analysis
